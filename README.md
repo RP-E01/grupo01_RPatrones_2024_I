@@ -1,3 +1,3 @@
-# Grupo 01_RPatrones_2024_I
+# Grupo 01 - Reconocimiento de Patrones
 ## Presentación del equipo
 ## Proyecto de curso 
