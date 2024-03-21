@@ -22,4 +22,7 @@ Soy un estudiante de Ingeniería Biomédica en el noveno ciclo con un profundo i
 
 Soy alumno en noveno ciclo de la carrera de Ingeniería Biomédica, quiero especializarme en el área de señales e imágenes médicas tengo interés en el uso de la inteligencia artificial para resolver problemas en el área de la salud.
 
+### Arelí Sánchez
+
+Soy alumna del décimo ciclo de la carrera de Ingeniería Biomédica con interés en el procesamiento de señales y el desarrollo de dispositivos médicos. 
 ## Proyecto de curso 
