@@ -10,14 +10,14 @@ Como estudiantes, esperamos mejorar nuestra formación en Machine Learning, abar
 ### Luis Barreto
 
 <p align="center">
-  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/86316349/e13d8c22-23fb-4d64-a83f-aa37dd1111be" alt="Luis Barreto" width="600"/>
+  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/86316349/e13d8c22-23fb-4d64-a83f-aa37dd1111be" alt="Luis Barreto" width="200"/>
 </p>
 
 Soy un estudiante de Ingeniería Biomédica en el noveno ciclo con un profundo interés en señales médicas e imágenes, así como en biomecánica. Siempre estoy ansioso por aprender y me motiva un objetivo principal: aprovechar la tecnología para mejorar la atención médica en Perú. Tengo una fascinación particular por la aplicación de la inteligencia artificial en el campo médico.
 ### Roberto Marin
 
 <p align="center">
-  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/86316349/771314cc-c54d-42ec-b2d1-715d2f0d565b" alt="Roberto Marin" width="600"/>
+  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/86316349/771314cc-c54d-42ec-b2d1-715d2f0d565b" alt="Roberto Marin" width="200"/>
 </p>
 
 Soy alumno en noveno ciclo de la carrera de Ingeniería Biomédica, quiero especializarme en el área de señales e imágenes médicas tengo interés en el uso de la inteligencia artificial para resolver problemas en el área de la salud.
