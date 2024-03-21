@@ -31,7 +31,7 @@ Estudiante de ingeniería biomédica con interés en el área de señales e imá
 ### Arelí Sánchez
 
 <p align="center">
-  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/135698700/6e9e1599-f60a-44e7-8785-e187a9710aba" alt="Roberto Marin" width="200"/>
+  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/135698700/b7e42a2a-ca00-49a5-a4d5-7cb08ea739e2" alt="Roberto Marin" width="200"/>
 </p>
 
 Soy alumna del décimo ciclo de la carrera de Ingeniería Biomédica con interés en el procesamiento de señales y el desarrollo de dispositivos médicos. Me interesa idear soluciones que sean accesibles y de impacto.
