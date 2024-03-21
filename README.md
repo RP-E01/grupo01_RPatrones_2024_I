@@ -7,8 +7,9 @@ Como estudiantes, esperamos mejorar nuestra formación en Machine Learning, abar
 ## Presentación del equipo
 ###
 ###
-###
-### Roberto Marin
+### Luis Barreto
 
+### Roberto Marin
+Soy alumno de la carrera de Ingeniería Biomédica, quiero especializarme en el área de señales e imágenes médicas tengo interés en el uso de la inteligencia artificial para resolver problemas en el área de la salud.
 
 ## Proyecto de curso 
