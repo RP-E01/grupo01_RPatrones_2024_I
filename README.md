@@ -24,7 +24,7 @@ Soy alumno en noveno ciclo de la carrera de Ingeniería Biomédica, quiero espec
 ### Gianfranco Feria
 
 <p align="center">
-  ![image](https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/43280063/0868f470-9304-479c-8bd7-6b3ba6571097)
+  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/43280063/0868f470-9304-479c-8bd7-6b3ba6571097" alt="Roberto Marin" width="200"/>
 </p>
 
 Estudiante de ingeniería biomédica con interés en el área de señales e imágenes, así como en el campo de la inteligencia artificial. Me considero una persona curiosa, responsable y perseverante. Mis expectativas con el proyecto son aportar al campo de la salud en nuestro país, especializándome para poder ayudar al sistema de salud, y mejorar mi formación como ingeniero.
