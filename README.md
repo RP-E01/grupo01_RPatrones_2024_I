@@ -21,7 +21,13 @@ Soy un estudiante de Ingeniería Biomédica en el noveno ciclo con un profundo i
 </p>
 
 Soy alumno en noveno ciclo de la carrera de Ingeniería Biomédica, quiero especializarme en el área de señales e imágenes médicas tengo interés en el uso de la inteligencia artificial para resolver problemas en el área de la salud.
+### Gianfranco Feria
 
+<p align="center">
+  ![image](https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/43280063/0868f470-9304-479c-8bd7-6b3ba6571097)
+</p>
+
+Estudiante de ingeniería biomédica con interés en el área de señales e imágenes, así como en el campo de la inteligencia artificial. Me considero una persona curiosa, responsable y perseverante. Mis expectativas con el proyecto son aportar al campo de la salud en nuestro país, especializándome para poder ayudar al sistema de salud, y mejorar mi formación como ingeniero.
 ### Arelí Sánchez
 
 Soy alumna del décimo ciclo de la carrera de Ingeniería Biomédica con interés en el procesamiento de señales y el desarrollo de dispositivos médicos. Me interesa idear soluciones que sean accesibles y de impacto.
