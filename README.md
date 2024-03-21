@@ -24,14 +24,14 @@ Soy alumno en noveno ciclo de la carrera de Ingeniería Biomédica, quiero espec
 ### Gianfranco Feria
 
 <p align="center">
-  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/43280063/0868f470-9304-479c-8bd7-6b3ba6571097" alt="Roberto Marin" width="200"/>
+  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/43280063/0868f470-9304-479c-8bd7-6b3ba6571097" alt="Gianfranco Feria" width="200"/>
 </p>
 
 Estudiante de ingeniería biomédica con interés en el área de señales e imágenes, así como en el campo de la inteligencia artificial. Me considero una persona curiosa, responsable y perseverante. Mis expectativas con el proyecto son aportar al campo de la salud en nuestro país, especializándome para poder ayudar al sistema de salud, y mejorar mi formación como ingeniero.
 ### Arelí Sánchez
 
 <p align="center">
-  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/135698700/b7e42a2a-ca00-49a5-a4d5-7cb08ea739e2" alt="Roberto Marin" width="200"/>
+  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/135698700/b7e42a2a-ca00-49a5-a4d5-7cb08ea739e2" alt="Areli Sanchez" width="200"/>
 </p>
 
 Soy alumna del décimo ciclo de la carrera de Ingeniería Biomédica con interés en el procesamiento de señales y el desarrollo de dispositivos médicos. Me interesa idear soluciones que sean accesibles y de impacto.
