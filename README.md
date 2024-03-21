@@ -30,8 +30,9 @@ Soy alumno en noveno ciclo de la carrera de Ingeniería Biomédica, quiero espec
 Estudiante de ingeniería biomédica con interés en el área de señales e imágenes, así como en el campo de la inteligencia artificial. Me considero una persona curiosa, responsable y perseverante. Mis expectativas con el proyecto son aportar al campo de la salud en nuestro país, especializándome para poder ayudar al sistema de salud, y mejorar mi formación como ingeniero.
 ### Arelí Sánchez
 
-![areli](https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/135698700/6e9e1599-f60a-44e7-8785-e187a9710aba)
-
+<p align="center">
+  <img src="https://github.com/RP-E01/grupo01_RPatrones_2024_I/assets/135698700/6e9e1599-f60a-44e7-8785-e187a9710aba" alt="Roberto Marin" width="200"/>
+</p>
 
 Soy alumna del décimo ciclo de la carrera de Ingeniería Biomédica con interés en el procesamiento de señales y el desarrollo de dispositivos médicos. Me interesa idear soluciones que sean accesibles y de impacto.
 
