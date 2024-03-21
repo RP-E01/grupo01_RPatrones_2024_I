@@ -24,5 +24,6 @@ Soy alumno en noveno ciclo de la carrera de Ingeniería Biomédica, quiero espec
 
 ### Arelí Sánchez
 
-Soy alumna del décimo ciclo de la carrera de Ingeniería Biomédica con interés en el procesamiento de señales y el desarrollo de dispositivos médicos. 
+Soy alumna del décimo ciclo de la carrera de Ingeniería Biomédica con interés en el procesamiento de señales y el desarrollo de dispositivos médicos. Me interesa idear soluciones que sean accesibles y de impacto.
+
 ## Proyecto de curso 
