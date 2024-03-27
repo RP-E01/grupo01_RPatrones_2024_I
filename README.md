@@ -37,3 +37,31 @@ Estudiante de ingeniería biomédica con interés en el área de señales e imá
 Soy alumna del décimo ciclo de la carrera de Ingeniería Biomédica con interés en el procesamiento de señales y el desarrollo de dispositivos médicos. Me interesa idear soluciones que sean accesibles y de impacto.
 
 ## Proyecto de curso 
+
+### Base de datos: "Neurocritical care waveform recordings in pediatric patients"
+
+Heldt, T., Fanelli, A., Tasker, R., Vonberg, F., & LaRovere, K. (2024). Neurocritical care waveform recordings in pediatric patients (version 1.0.0). PhysioNet. https://doi.org/10.13026/5kvn-pp29.
+
+**Publicación original**
+
+Fanelli A, Vonberg F, LaRovere K, Walsh B, Smith E, Robinson S, Tasker RC, Heldt T. (2019). Fully automated, real-time, calibration-free, continuous noninvasive estimation of intracranial pressure in children. Journal of Neurosurgery: Pediatrics, 24(5), 509-519.
+
+**Cita estándar**
+
+Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online], 101(23), e215–e220.
+
+### Descripción
+
+La base de datos contiene grabaciones de forma de onda de pacientes pediátricos en cuidados neurocríticos, con información desidentificada y sincronizada en el tiempo. Incluye mediciones típicas obtenidas en la cabecera del paciente, como la presión arterial, la presión intracraneal y la velocidad del flujo sanguíneo cerebral. Además, proporciona datos sobre el hematocrito y la ubicación vertical (es decir, altura) de los transductores de presión arterial e intracraneal, para considerar posibles diferencias en la presión hidrostática entre ambas mediciones. La primera versión de la base de datos abarca datos de 12 pacientes con diversas patologías que requieren monitoreo invasivo de la presión intracraneal. La duración total de las grabaciones es de aproximadamente 10 horas entre todos los pacientes y estudios.
+
+### Problemática
+
+
+### Objetivos
+
+- Predicción de eventos adversos: Utilizar las señales fisiológicas para predecir la ocurrencia de eventos adversos como el aumento de la presión intracraneal o ladisminución del flujo sanguíneo cerebral.
+- Clasificación de pacientes: Clasificar a los pacientes en grupos según la gravedad de su condición o la respuesta al tratamiento, basándose en las característicasde las señales fisiológicas.
+- Detección temprana de deterioro: Identificar patrones en las señales fisiológicas que indiquen un deterioro temprano en la condición del paciente, permitiendo intervenciones tempranas.
+
+### Metodología
+
