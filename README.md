@@ -56,6 +56,11 @@ La base de datos contiene grabaciones de forma de onda de pacientes pediátricos
 
 ### Problemática
 
+La detección temprana de crisis epilépticas en pacientes pediátricos con epilepsia es un problema significativo debido a varias razones. En primer lugar, las crisis epilépticas son una causa frecuente de consulta en la emergencia y en la atención ambulatoria. Se estima que aproximadamente el 10% de la población general tendrá una crisis epiléptica en su vida y la mitad de ellas ocurrirá en la infancia y adolescencia. 
+
+Además, la ocurrencia de una crisis no implica necesariamente el diagnóstico de epilepsia, y el tratamiento subsecuente. Por lo tanto, es crucial poder predecir y detectar estas crisis para administrar el tratamiento adecuado y evitar posibles complicaciones. Por otro lado, no todo paciente con primera crisis debe ser dejado en observación sin recibir el manejo apropiado. Esta decisión está en función del riesgo de recurrencia de crisis. Por lo tanto, un modelo de machine learning que pueda predecir estas crisis basado en los datos de formas de onda del cerebro puede ser de gran ayuda para los médicos y cuidadores.
+
+Finalmente, las crisis epilépticas pueden tener un impacto significativo en la calidad de vida del paciente. Por lo tanto, cualquier herramienta que pueda ayudar a predecir y, por lo tanto, a manejar mejor estas crisis, puede tener un impacto positivo en la vida del paciente. Sin embargo, es importante tener en cuenta que cualquier modelo desarrollado con estos datos necesitaría ser validado en estudios clínicos antes de poder ser utilizado en la práctica.
 
 ### Objetivos
 
@@ -64,4 +69,24 @@ La base de datos contiene grabaciones de forma de onda de pacientes pediátricos
 - Detección temprana de deterioro: Identificar patrones en las señales fisiológicas que indiquen un deterioro temprano en la condición del paciente, permitiendo intervenciones tempranas.
 
 ### Metodología
+
+#### Preparación de Datos
+- **Recolección y Acceso**: Obtener acceso y cargar la base de datos de PhysioNet.
+- **Limpieza y Normalización**: Aplicar técnicas de limpieza para corregir o eliminar datos erróneos o incompletos. Normalizar las señales para su análisis.
+
+#### Extracción y Selección de Características
+- **Extracción**: Diseñar métodos para extraer características relevantes de las señales fisiológicas.
+- **Selección**: Utilizar técnicas para identificar las características más significativas para los objetivos del estudio.
+
+#### Modelado y Validación
+- **Modelos de Machine Learning**: Seleccionar y entrenar modelos adecuados, utilizando una división de datos en entrenamiento y prueba, y aplicar validación cruzada.
+- **Evaluación**: Usar métricas como precisión, sensibilidad, y especificidad para evaluar el rendimiento de los modelos.
+
+#### Aplicación y Documentación
+- **Interpretación de Resultados**: Analizar e interpretar los resultados en el contexto clínico.
+- **Desarrollo de Herramientas**: Crear prototipos de herramientas basadas en los modelos para asistencia clínica.
+- **Documentación**: Elaborar documentación sobre los métodos, modelos, y resultados obtenidos.
+
+#### Consideraciones Éticas
+- Asegurar la protección de los datos de pacientes y seguir directrices éticas en la investigación.
 
