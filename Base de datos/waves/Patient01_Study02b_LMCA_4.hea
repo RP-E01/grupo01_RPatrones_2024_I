@@ -1,0 +1,7 @@
+Patient01_Study02b_LMCA_4 3 125 56900
+Patient01_Study02b_LMCA_4.dat 16 16.0(0)/mmHg 16 0 1297 6906 0 ABP
+Patient01_Study02b_LMCA_4.dat 16 16.0(0)/mmHg 16 0 206 15025 0 ICP
+Patient01_Study02b_LMCA_4.dat 16 10.0(0)/cm/s 16 0 287 46733 0 CBFV
+# hAbp = 94 cm
+# hIcp = 94 cm
+# Hct = 33.0%
