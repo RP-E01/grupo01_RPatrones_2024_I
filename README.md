@@ -64,23 +64,30 @@ Finalmente, las crisis epilépticas pueden tener un impacto significativo en la 
 
 ### Objetivos
 
-- Predicción de eventos adversos: Utilizar las señales fisiológicas para predecir la ocurrencia de eventos adversos como el aumento de la presión intracraneal o ladisminución del flujo sanguíneo cerebral.
-- Clasificación de pacientes: Clasificar a los pacientes en grupos según la gravedad de su condición o la respuesta al tratamiento, basándose en las característicasde las señales fisiológicas.
-- Detección temprana de deterioro: Identificar patrones en las señales fisiológicas que indiquen un deterioro temprano en la condición del paciente, permitiendo intervenciones tempranas.
+- Implementar un modelo de regresión para predecir tempranamente la ICP en situaciones críticas.
+- Clasificar a los pacientes según la gravedad de su condición basándose en las características de las señales fisiológicas.
+- Identificar las variables más relevantes para la predicción de la ICP mediante técnicas de selección de características.
+- Validar el modelo de regresión utilizando métricas de evaluación de rendimiento como precisión y sensibilidad.
+- Interpretar los resultados del modelo en el contexto clínico y discutir su aplicabilidad y limitaciones.
 
 ### Metodología
 
 #### Preparación de Datos
-- **Recolección y Acceso**: Obtener acceso y cargar la base de datos de PhysioNet.
-- **Limpieza y Normalización**: Aplicar técnicas de limpieza para corregir o eliminar datos erróneos o incompletos. Normalizar las señales para su análisis.
+- **Recolección y Acceso:** Acceder a la base de datos de PhysioNet, una fuente pública de señales fisiológicas y datos clínicos. Cargar los datos relevantes en un entorno seguro de procesamiento de datos, asegurando la conformidad con las normativas de privacidad y protección de datos.
+  
+- **Exploración, Limpieza y Normalización:** Realizar un análisis exploratorio inicial para identificar patrones, valores atípicos y posibles errores en los datos. Utilizar técnicas de limpieza para corregir o eliminar registros erróneos o incompletos. Normalizar las señales fisiológicas para homogeneizar la escala y facilitar su comparación y análisis.
+
+- **Aumento de Datos:** Incrementar la diversidad y el volumen del conjunto de datos aplicando técnicas de aumento de datos a las señales fisiológicas.
 
 #### Extracción y Selección de Características
-- **Extracción**: Diseñar métodos para extraer características relevantes de las señales fisiológicas.
-- **Selección**: Utilizar técnicas para identificar las características más significativas para los objetivos del estudio.
+- **Extracción:** Desarrollar algoritmos para extraer características cuantitativas de las señales fisiológicas. Implementar métodos de procesamiento de señales para extraer información relevante desde el punto de vista clínico.
+
+- **Selección:** Emplear técnicas estadísticas y de aprendizaje automático para determinar las características más relevantes para los modelos predictivos.
 
 #### Modelado y Validación
-- **Modelos de Machine Learning**: Seleccionar y entrenar modelos adecuados, utilizando una división de datos en entrenamiento y prueba, y aplicar validación cruzada.
-- **Evaluación**: Usar métricas como precisión, sensibilidad, y especificidad para evaluar el rendimiento de los modelos.
+- **Modelos de Aprendizaje Automático:** Utilizar modelos LSTM para regresión y desarrollar modelos de clasificación para ICP lateralizada. Mejorar la precisión y estabilidad con modelos de ensamble.
+
+- **Evaluación:** Evaluar el rendimiento de los modelos utilizando métricas específicas como precisión, sensibilidad, especificidad y el área bajo la curva ROC (AUC).
 
 #### Aplicación y Documentación
 - **Interpretación de Resultados**: Analizar e interpretar los resultados en el contexto clínico.
